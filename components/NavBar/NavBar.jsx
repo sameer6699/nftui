@@ -14,7 +14,6 @@ import {Button} from '../componentindex';
 import images from '../../img';
 
 
-
 const NavBar = () => {
   //-------- USESTATE COMPONENTS 
   const [discover, setdiscover] = useState(false);
@@ -25,10 +24,9 @@ const NavBar = () => {
 
   return (
     <div className={Style.navbar}>
-      <div className={Style.navbar_container}></div>
+      <div className={Style.navbar_container}> </div>
     </div>
   )
 }
 
 export default NavBar
-
