@@ -51,9 +51,9 @@ Prerequisites
   MetaMask (browser extension)
 ```
     
-## Screenshots
+## Mockup Design
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sameer6699/nftui/blob/ff39489b1de04fc7f2912479ab4e900fe4e32fc8/Wireframes%20NFT_Marketplace%20(Community)%402x.png)
 
 
 ## License
