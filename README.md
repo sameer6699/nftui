@@ -1,6 +1,6 @@
 <h1>Official Documentation of the NFT Marketplace Platform</h1>
 
-# NFT Marketplace
+# Etherverse
 
 Welcome to the NFT Marketplace project! This repository contains the codebase for a decentralized application (dApp) that allows users to create, buy, sell, and trade non-fungible tokens (NFTs).
 
