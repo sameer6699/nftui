@@ -9,14 +9,13 @@ Welcome to the NFT Marketplace project! This repository contains the codebase fo
 ## Table of Content 
 
 1) Introduction 
-2) Introduction
-3) Features
-4) Architecture
-5) Installation0
-6) Usage
-7) Smart Contracts
-8) Contributing
-9) License
+2) Features
+3) Architecture
+4) Installation0
+5) Usage
+6) Smart Contracts
+7) Contributing
+8) License
 
 
 ## Introduction
